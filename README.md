@@ -35,12 +35,12 @@ ____________________
 # Single installation command
 _______________________________________
 
-apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && pip2 install requests && git clone https://github.com/darkboss1/darkboss1-deface.git && cd white-deface && pip install -r requirements.txt && git pull && python white-deface.py
+apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && pip2 install requests && git clone https://github.com/darkboss1/darkboss1-deface.git && cd white-deface && pip install -r requirements.txt && git pull && python darkboss1-deface.py
   
 
 Tool used for vulnerable website defacing
 
-Tool devoloped by whxite
+Tool devoloped by darkboss1
 
 
 Telegram : https://t.me/darkboss1bd
